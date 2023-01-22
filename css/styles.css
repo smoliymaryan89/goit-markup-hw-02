@@ -135,6 +135,10 @@ body {
 .team-item {
   background-color: var(--white-bg-cl);
 }
+/* ----Gallery---- */
+.gallery-link {
+  color: currentColor;
+}
 /* ----Footer---- */
 .footer {
   background-color: var(--navy-blue-bg-cl);
